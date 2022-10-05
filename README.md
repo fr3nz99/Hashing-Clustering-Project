@@ -1,14 +1,8 @@
-# ADM-HW4
-Repository for the 4-th homework of the ADM class
+# Hashing&Clustering: Recognition and Analysis of the songs and their genre
+The project has been done for the course "Algorithmic Methods of Data Mining" of Sapienza - University of Rome.
 
-Members:
+### Collaborators: Andrea Potì, Arturo Ghinassi, Mario Napoli, Francesco Pinto
 
-- Andrea Potì
-- Arturo Ghinassi
-- Mario Napoli
-- Francesco Pinto
-
-Link nbviewer: https://nbviewer.org/github/ghinassi1863151/ADM-HW4/blob/main/main.ipynb
 
 # Content of the repository:
 
